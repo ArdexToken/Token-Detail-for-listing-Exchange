@@ -1,0 +1,9 @@
+Token Standart ERC20 (Ethereum Smart Contract)
+
+Nama: Arduino Token
+
+Simbol: ARDT
+
+Alamat Kontrak: 0xb6ea287E84De0Cc92109F0Ad90AC46669DBCc6a6
+
+Desimal: 18
